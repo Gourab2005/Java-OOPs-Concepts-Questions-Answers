@@ -63,8 +63,8 @@ It is designed to help you **understand the fundamentals of Object-Oriented Prog
 
 1. Fork this repository
 2. Clone your fork to your local system
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/your-username/repo-name.git
+   cd repo-name
 3. Create a new branch
    git checkout -b your-branch-name
 4. Navigate to ContributorsLibrary/ and create your folder using your name
