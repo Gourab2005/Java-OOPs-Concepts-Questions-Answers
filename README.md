@@ -49,3 +49,30 @@ It is designed to help you **understand the fundamentals of Object-Oriented Prog
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="90"/>
 </p>
+
+---
+## Contribution Guidelines
+
+- Make a folder of **your name** under the folder **ContributorsLibrary**
+- Commit your contributions under it
+- Maintain structure for different types of resources
+
+<img width="585" height="262" alt="image" src="https://github.com/user-attachments/assets/9f5f3321-765b-4b46-a6a3-0bb8e8454586" />
+
+### Steps to Contribute
+
+1. Fork this repository
+2. Clone your fork to your local system
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
+3. Create a new branch
+   git checkout -b your-branch-name
+4. Navigate to ContributorsLibrary/ and create your folder using your name
+   mkdir ContributorsLibrary/YourName
+5. Add your resources to the proper subfolder (Notes/, etc)
+6. Commit your changes
+   git add .
+   git commit -m "Added <resource-type> by <YourName>"
+7. Push to your fork
+   git push origin your-branch-name
+8. Open a Pull Request to the main repository
