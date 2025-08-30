@@ -64,15 +64,17 @@ It is designed to help you **understand the fundamentals of Object-Oriented Prog
 1. Fork this repository
 2. Clone your fork to your local system
    git clone https://github.com/your-username/repo-name.git
+   <br>
    cd repo-name
-3. Create a new branch
+   <br>
+4. Create a new branch
    git checkout -b your-branch-name
-4. Navigate to ContributorsLibrary/ and create your folder using your name
+5. Navigate to ContributorsLibrary/ and create your folder using your name
    mkdir ContributorsLibrary/YourName
-5. Add your resources to the proper subfolder (Notes/, etc)
-6. Commit your changes
+6. Add your resources to the proper subfolder (Notes/, etc)
+7. Commit your changes
    git add .
    git commit -m "Added <resource-type> by <YourName>"
-7. Push to your fork
+8. Push to your fork
    git push origin your-branch-name
-8. Open a Pull Request to the main repository
+9. Open a Pull Request to the main repository
